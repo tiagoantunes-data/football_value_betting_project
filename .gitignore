@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# Anaconda
+anaconda_projects/
+
+# OS
+.DS_Store
